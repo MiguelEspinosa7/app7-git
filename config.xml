@@ -37,5 +37,5 @@
 	<plugin name="cordova-plugin-whitelist" source="npm"/>
 	
 	<!--Colocar icono app PRUEBA DE CARGA-->
-	<icon src="res/android/mdpi.png"/>
+	<icon src="res/android/mdpiapp7.png"/>
 	</widget>
